@@ -1,4 +1,3 @@
-# Bonus
 import tkinter
 gui = tkinter.Tk()
 from tkinter import messagebox
